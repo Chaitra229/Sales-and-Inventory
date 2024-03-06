@@ -11,8 +11,8 @@ public class Sample1Test
 	}
 	
 	@Test(groups="smokesuite")
-	public void samplescript_2()
+	public static void samplescript_2()
 	{
-		System.out.println("-----test script 22222-----");
+		Systemmmm.out.println("-----test script 22222-----");
 	}
 }
