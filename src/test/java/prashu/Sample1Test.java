@@ -15,4 +15,10 @@ public class Sample1Test
 	{
 		Systemmmm.out.println("-----test script 22222-----");
 	}
+
+	@Test(groups={"smokesuite","regressionsuite"})
+	public void samplescript_1()
+	{
+		System.out.println("-----test script 1-----");
+	}
 }
